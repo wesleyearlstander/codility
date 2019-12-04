@@ -1,4 +1,4 @@
-# Codility Solutions
+# Codility C++ Solutions
 
 ## Lessons
 
