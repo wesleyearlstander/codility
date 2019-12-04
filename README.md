@@ -15,6 +15,7 @@ Details Legend: D = *Difficulty*; TS = *Task Score*; C = *Correctness*; P = *Per
 |[PermMissingElem](https://app.codility.com/programmers/lessons/3-time_complexity/perm_missing_elem/).[cpp](src/PermMissingElem.cpp) | ![](https://img.shields.io/badge/D-painless-81c1e1.svg) ![](https://img.shields.io/badge/TS-100%25-green.svg) ![](https://img.shields.io/badge/C-100%25-green.svg) ![](https://img.shields.io/badge/P-100%25-green.svg) ![](https://img.shields.io/badge/TC-O%28N%29%20or%20O%28N%2Alog%28N%29%29-lightgrey.svg) |
 |[FrogJmp](https://app.codility.com/programmers/lessons/3-time_complexity/frog_jmp/) - [FrogJmp.cpp](src/FrogJmp.cpp) | ![](https://img.shields.io/badge/D-painless-81c1e1.svg) ![](https://img.shields.io/badge/TS-100%25-green.svg) ![](https://img.shields.io/badge/C-100%25-green.svg) ![](https://img.shields.io/badge/P-100%25-green.svg) ![](https://img.shields.io/badge/TC-O%281%29-lightgrey.svg) |
 |[TapeEquilibrium](https://app.codility.com/programmers/lessons/3-time_complexity/tape_equilibrium/).[cpp](src/TapeEquilibrium.cpp) | ![](https://img.shields.io/badge/D-painless-81c1e1.svg) ![](https://img.shields.io/badge/TS-100%25-green.svg) ![](https://img.shields.io/badge/C-100%25-green.svg) ![](https://img.shields.io/badge/P-100%25-green.svg) ![](https://img.shields.io/badge/TC-O%28N%29-lightgrey.svg) |
+<!--
 | **Lesson 4 - Counting Elements**| |
 | [PermCheck](https://app.codility.com/programmers/lessons/4-counting_elements/perm_check/).[cpp](src/PermCheck.cpp) | ![](https://img.shields.io/badge/D-painless-81c1e1.svg) ![](https://img.shields.io/badge/TS-100%25-green.svg) ![](https://img.shields.io/badge/C-100%25-green.svg) ![](https://img.shields.io/badge/P-100%25-green.svg) ![](https://img.shields.io/badge/TC-O%28N%29%20or%20O%28N%2Alog%28N%29%29-lightgrey.svg) |
 | [FrogRiverOne](https://app.codility.com/programmers/lessons/4-counting_elements/frog_river_one/).[cpp](src/FrogRiverOne.cpp) | ![](https://img.shields.io/badge/D-painless-81c1e1.svg) ![](https://img.shields.io/badge/TS-100%25-green.svg) ![](https://img.shields.io/badge/C-100%25-green.svg) ![](https://img.shields.io/badge/P-100%25-green.svg) ![](https://img.shields.io/badge/TC-O%28N%29-lightgrey.svg) |
@@ -70,6 +71,7 @@ Details Legend: D = *Difficulty*; TS = *Task Score*; C = *Correctness*; P = *Per
 | **Lesson 17 - Dynamic Programming** | |
 | [NumberSolitaire]() []() | ![](https://img.shields.io/badge/D-respectable-61c0c5.svg) |
 | [MinAbsSum]() []() | ![](https://img.shields.io/badge/D-ambitious-4fa0a4.svg) |
+-->
 <!--
 | *Lesson Template* | |
 | []() []() | ![](https://img.shields.io/badge/D-effortless-b1e2f1.svg) |
